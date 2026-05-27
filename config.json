@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseuave",
+        "uuid": 4031445,
+        "checksum": "ykni9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
